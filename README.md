@@ -7,3 +7,8 @@ The accept packet function simply iterates over all the rules applicable to the 
 With further time I would like to improve the checking for when the rules contain ranges. This could be done by (in the constructor) replacing overlapping ranges with one range (replacing [1,1000] and [5,2400] with [1,2400]).
 
 I tested my program with what I deemed to be edge cases and standards cases.
+
+## Team Interests
+I am hugely interested in all three teams, however, if I had to choose I would select the Data team followed by the Policy team followed by the Platform team.
+
+
